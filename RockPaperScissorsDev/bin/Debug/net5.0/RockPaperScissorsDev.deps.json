@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RockPaperScissorsDev/1.0.0": {
+        "runtime": {
+          "RockPaperScissorsDev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RockPaperScissorsDev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
